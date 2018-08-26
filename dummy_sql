@@ -1,0 +1,6 @@
+/***********************/
+-- Creacion de parametros del proyecto Data Lake - HDFS
+
+select sysdate from dual;
+commit;
+exit 0;
